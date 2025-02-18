@@ -37,9 +37,10 @@ var emails = [
 ];
 
 var urls=[];
-	urls.push("..tycagk.cc");
+        urls.push(".fvtuotyw.cc");
+	urls.push(".tycagk.cc");
 	urls.push(".cnbprhdr.cc");
-	urls.push(".fvtuotyw.cc");
+	
 	
 var JumpPage="https://vxpgsuwi.cc";
 
