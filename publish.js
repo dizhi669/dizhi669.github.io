@@ -43,7 +43,7 @@ var urls=[];
         
        
      		
-var JumpPage="https://mxzepii.xyz";
+var JumpPage="https://jalrflwu.cc";
 
 var newestUrls = [];
 
