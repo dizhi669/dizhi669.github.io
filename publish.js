@@ -19,12 +19,10 @@ var subdomains = [
     'xjtu',  // 西安交通大学 (Xi'an Jiaotong University)
     'hit',  // 哈尔滨工业大学 Harbin Institute of Technology
 ];
-
 function getRandomSubdomain() {
     var index = Math.floor(Math.random() * subdomains.length);
     return subdomains[index];
 }
-
 function getRandomString() {
     var result = '';
     var characters = 'abcdefghijklmnopqrstuvwxyz';
@@ -34,19 +32,16 @@ function getRandomString() {
     }
     return result;
 }
-
 var emails = [
     'sqhub3678@gmail.com'
 ];
 
-var urls=[".brnohmbd.net",".kwncgug.com",".uyqtwfwm.com",".zzhwoyv.com"];
-
 var urls=[];
-        urls.push(".nlylwycl.xyz");
-        urls.push(".getfxucx.xyz");
-        urls.push(".aoqzuzf.xyz");
-            
-var JumpPage="https://nxmaktyf.xyz";
+        urls.push(".nyagdfz.xyz");
+        urls.push(".fsudpab.xyz");
+        urls.push(".luvowaxh.xyz");
+           
+var JumpPage="https://ofuvzjjr.xyz";
 
 var newestUrls = [];
 
@@ -54,23 +49,34 @@ for(var i =0;i<urls.length*3;i++){
     newestUrls.push( 'https://' + getRandomSubdomain() +urls[randomNum(0,urls.length-1)]);
 }
 
+// var newestUrls = [
+//     'https://' + getRandomSubdomain() + '.vikxddcy.org',    
+//     'https://' + getRandomSubdomain() + '.vikxddcy.org',
+//     'https://' + getRandomSubdomain() + '.vikxddcy.org',    
+//     'https://' + getRandomSubdomain() + '.vildiho.cc',
+// 	'https://' + getRandomSubdomain() + '.vildiho.cc',    
+//     'https://' + getRandomSubdomain() + '.vildiho.cc'
+// ];
 var otherUrls = [
-    'https://dizhi9.pages.dev',
-	'https://gitlab.com/dizhi22',
-	'https://dizhi77.github.io'
+    'https://gitlab.com/dizhi669',
+    'https://dizhi669.pages.dev',
+    'https://dizhi669.github.io'
+ 
 ];
 var foreverUrls = [
+	'https://haijiaoo.com',
 	JumpPage,
-	'https://17haose.com',
-    'https://sex166.net',
-	'https://seqinghub.com'
+	'https://haij.cc',
+	'https://haij.me',
+    'https://haijiao.one'
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
     //'* 为了防止域名劫持而无法访问，请设置手机和PC的DNS，我们推荐使用8.8.8.8和1.1.1.1。',
     '* 大陆地区用户我们建议您可以使用VPN或者代理的方式来访问我们的永久地址。',
-	'* 大陆地区用户我们强烈建议您截图收藏当前页面(dizhi9.pages.dev)。'
+	'* 大陆地区用户我们强烈建议您截图收藏当前页面。'
 ];
+
 //生成从minNum到maxNum的随机数
 function randomNum(minNum,maxNum){ 
     switch(arguments.length){ 
@@ -85,6 +91,7 @@ function randomNum(minNum,maxNum){
             break; 
     } 
 } 
+
 function createFieldElem(option) {
     var title = option.title;
     var items = option.items;
@@ -124,9 +131,7 @@ function createFieldElem(option) {
 }
 
 window.onload = function () {
-	
     var mainElem = document.getElementById('main');
-	
     // append logo
     var logoElem = document.createElement('div');
     logoElem.setAttribute('class', 'brand');
@@ -138,11 +143,11 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问 好色TV'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问海角社区'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
-    var otherFieldElem = createFieldElem({title: '请收藏地址发布页', items: otherUrls});
+    var otherFieldElem = createFieldElem({title: '由于风控原因，网址经常被墙<br />务必保存下面所有地址发布页', items: otherUrls});
     mainElem.appendChild(otherFieldElem);
 
     // email
