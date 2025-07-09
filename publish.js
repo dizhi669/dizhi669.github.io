@@ -39,7 +39,7 @@ var emails = [
 var urls=[];
        urls.push(".jkunaxi.cc"); 
        urls.push(".cnnfexm.top");
-       urls.push(".jkunaxi.cc");   
+       urls.push(".eeerytid.top");   
       
       		
 var JumpPage="https://csemkay.com";
