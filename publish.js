@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[];
-       urls.push(".jkunaxi.cc"); 
-       urls.push(".cnnfexm.top");
-       urls.push(".eeerytid.top");   
+       urls.push(".iqqfqhjj.org"); 
+       urls.push(".jkunaxi.cc");
+       urls.push(".cnnfexm.top");   
       
       		
-var JumpPage="https://csemkay.com";
+var JumpPage="https://iwxlfojw.top";
 
 var newestUrls = [];
 
