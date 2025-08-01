@@ -42,7 +42,7 @@ var urls=[];
        urls.push(".huebxbus.com");   
       
       		
-var JumpPage="https://hvalansh.top";
+var JumpPage="https://recvcyuc.top";
 
 var newestUrls = [];
 
