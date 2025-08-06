@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-       urls.push(".urinbim.com"); 
-       urls.push(".iqjjahp.top");
-       urls.push(".huebxbus.com");   
+       urls.push(".eaiwxnrp.top"); 
+       urls.push(".urinbim.com");
+       urls.push(".iqjjahp.top");   
       
       		
 var JumpPage="https://recvcyuc.top";
@@ -164,3 +164,4 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
