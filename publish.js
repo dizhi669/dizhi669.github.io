@@ -42,7 +42,7 @@ var urls=[];
        urls.push(".wnhomyo.cc");   
       
       		
-var JumpPage="https://hjvideo4.com";
+var JumpPage="https://hjvideo5.com";
 
 var newestUrls = [];
 
@@ -164,6 +164,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
