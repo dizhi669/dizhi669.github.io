@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-       urls.push(".nfxtcci.com"); 
-       urls.push(".seczffgb.cc");
-       urls.push(".uecyfkc.cc");   
+       urls.push(".hzeqeas.xyz"); 
+       urls.push(".nfxtcci.com");
+       urls.push(".seczffgb.cc");   
       
       		
 var JumpPage="https://hjvideo12.com";
@@ -164,6 +164,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
