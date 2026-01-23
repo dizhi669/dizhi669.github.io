@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[];
-       urls.push(".dvjtihdb.xyz"); 
-       urls.push(".incvcds.com");
-       urls.push(".wvrkvad.cc");   
+       urls.push(".nzrxtiop.xyz"); 
+       urls.push(".dvjtihdb.xyz");
+       urls.push(".incvcds.com");   
       
       		
-var JumpPage="https://hjvideo24.com";
+var JumpPage="https://hjvideo25.com";
 
 var newestUrls = [];
 
@@ -164,6 +164,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
