@@ -38,11 +38,11 @@ var emails = [
 
 var urls=[];
        urls.push(".avyjxvho.com"); 
-       urls.push(".oliyjrtb.com");
-       urls.push(".xikgtno.com");   
+       urls.push(".avyjxvho.com");
+       urls.push(".ggpxyqla.cc");   
       
       		
-var JumpPage="https://hjvideo40.com";
+var JumpPage="https://hjvideo41.com";
 
 var newestUrls = [];
 
