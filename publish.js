@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[];
-       urls.push(".pqbggowl.cc"); 
-       urls.push(".avyjxvho.com");
-       urls.push(".ggpxyqla.cc");   
+       urls.push(".pixhltsku.cc"); 
+       urls.push(".pqbggowl.cc");
+       urls.push(".avyjxvho.com");   
       
       		
-var JumpPage="https://hjvideo41.com";
+var JumpPage="https://hjvideo42.com";
 
 var newestUrls = [];
 
