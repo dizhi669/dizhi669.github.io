@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-       urls.push(".xwwtanzb.cc"); 
-       urls.push(".pixhltsku.cc");
-       urls.push(".pqbggowl.cc");   
+       urls.push(".mscouycwy.cc"); 
+       urls.push(".xwwtanzb.cc");
+       urls.push(".pixhltsku.cc");   
       
       		
 var JumpPage="https://hjvideo43.com";
