@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-       urls.push(".wtipwstje.cc"); 
-       urls.push(".umfriwma.cc");
-       urls.push(".slhnnai.cc");   
+       urls.push(".xetntkwrh.com"); 
+       urls.push(".wtipwstje.cc");
+       urls.push(".umfriwma.cc");   
       
       		
 var JumpPage="https://hjvideo50.com";
