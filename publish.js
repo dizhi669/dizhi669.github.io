@@ -42,7 +42,7 @@ var urls=[];
        urls.push(".xetntkwrh.com");   
       
       		
-var JumpPage="https://hjvideo51.com";
+var JumpPage="https://hjvideo52.com";
 
 var newestUrls = [];
 
