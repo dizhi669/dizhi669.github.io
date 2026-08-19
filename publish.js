@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[];
-       urls.push(".zmqmjwfre.cc"); 
-       urls.push(".wlwqlwwf.cc");
-       urls.push(".uqaemedb.com");   
+       urls.push(".exuwdhooo.cc"); 
+       urls.push(".juwvizju.cc");
+       urls.push(".zmqmjwfre.cc");   
       
       		
 var JumpPage="https://hjvideo56.com";
