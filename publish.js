@@ -39,7 +39,7 @@ var emails = [
 var urls=[];
        urls.push(".sigkbipbm.cc"); 
        urls.push(".lricjbchq.cc");
-       urls.push(".xzuchbeu.cc");   
+       urls.push(".dbhlbychp.cc");   
       
       		
 var JumpPage="https://hjvideo61.com";
