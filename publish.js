@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-       '.bxivbovn.cc',
-       '.szgmqpdv.cc',
-       '.dbhlbychp.cc',   
+       'bxivbovn.cc',
+       'szgmqpdv.cc',
+       'dbhlbychp.cc',   
 ];      
       		
 var JumpPage="https://hjvideo62.com";
@@ -48,7 +48,7 @@ var newestUrls = [];
 
 
 for(var i =0;i<urls.length*3;i++){
-    newestUrls.push( 'https://' + getRandomSubdomain() +urls[randomNum(0,urls.length-1)]);
+    newestUrls.push( 'https://' + getRandomSubdomain() +'.'+urls[randomNum(0,urls.length-1)]);
 }
 
 // var newestUrls = [
