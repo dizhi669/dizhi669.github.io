@@ -36,11 +36,11 @@ var emails = [
     'sqhub3678@gmail.com'
 ];
 
-var urls=[];
-       urls.push(".bxivbovn.cc"); 
-       urls.push(".szgmqpdv.cc");
-       urls.push(".dbhlbychp.cc");   
-      
+var urls=[
+       '.bxivbovn.cc',
+       '.szgmqpdv.cc',
+       '.dbhlbychp.cc',   
+];      
       		
 var JumpPage="https://hjvideo62.com";
 
