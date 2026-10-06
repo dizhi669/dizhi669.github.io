@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-       'bxivbovn.cc',
-       'szgmqpdv.cc',
-       'dbhlbychp.cc',   
+	'daayojuik.cc',
+	'bxivbovn.cc',
+	'szgmqpdv.cc',
 ];      
       		
 var JumpPage="https://hjvideo62.com";
