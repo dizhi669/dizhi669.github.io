@@ -42,7 +42,7 @@ var urls=[
 	'bxivbovn.cc',
 ];      
       		
-var JumpPage="https://hjvideo62.com";
+var JumpPage="https://hjvideo63.com";
 
 var newestUrls = [];
 
