@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'bl95y08k.cc',
 	'rv95i08q.cc',
 	'vf74s86z.cc',
-	'dohwdeuej.cc',
 ];      
       		
 var JumpPage="https://hjvideo63.com";
