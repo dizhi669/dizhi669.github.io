@@ -42,7 +42,7 @@ var urls=[
 	'vf74s86z.cc',
 ];      
       		
-var JumpPage="https://hjvideo63.com";
+var JumpPage="https://hjvideo64.com";
 
 var newestUrls = [];
 
