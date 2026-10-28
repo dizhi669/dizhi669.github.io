@@ -42,7 +42,7 @@ var urls=[
 	'bl95y08k.cc',
 ];      
       		
-var JumpPage="https://hjvideo64.com";
+var JumpPage="https://hjvideo65.com";
 
 var newestUrls = [];
 
