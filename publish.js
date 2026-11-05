@@ -42,7 +42,7 @@ var urls=[
 	'ioj2ztbiv.cc',
 ];      
       		
-var JumpPage="https://hjvideo66.com";
+var JumpPage="https://hjvideo67.com";
 
 var newestUrls = [];
 
