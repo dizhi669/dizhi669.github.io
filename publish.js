@@ -42,7 +42,7 @@ var urls=[
 	'sypftfxh.cc',
 ];      
       		
-var JumpPage="https://hjvideo68.com";
+var JumpPage="https://hjvideo69.com";
 
 var newestUrls = [];
 
