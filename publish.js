@@ -42,7 +42,7 @@ var urls=[
 	'pdjoaduvc.cc',
 ];      
       		
-var JumpPage="https://hjvideo70.com";
+var JumpPage="https://hjvideo71.com";
 
 var newestUrls = [];
 
